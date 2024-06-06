@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "name": "Spider-Man",
+        "relatives": "Marlo Chandler-Jones (wife); Polly (aunt); Mrs. Chandler (mother-in-law); Keith Chandler, Ray Chandler, three unidentified others (brothers-in-law); unidentified father (deceased); Jackie Shorr (alleged mother; unconfirmed)"
+    },
+    {
+        "id": 2,
+        "name": "Iron Man",
+        "relatives": "Howard Stark (father, deceased); Maria Stark (mother, deceased); Morgan Stark (cousin)"
+    }
+    // Add more superhero data here
+]
